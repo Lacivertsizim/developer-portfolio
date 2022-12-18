@@ -9,7 +9,7 @@ const Footer = () => {
       sx={{
         display: "flex",
         justifyContent: "space-around",
-        bottom: "0",
+        bottom: "0", 
       }}
     >
       <Box sx={{ mt: 1, fontSize: "1.2rem" }}>
